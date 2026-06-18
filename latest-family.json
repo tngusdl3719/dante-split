@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 8,
-  "latestVersionName": "1.7",
+  "latestVersionCode": 9,
+  "latestVersionName": "1.8",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/tngusdl3719/dante-split/releases/download/v1.7/app-family-debug.apk",
-  "changelog": "업데이트 동작 테스트"
+  "apkUrl": "https://github.com/tngusdl3719/dante-split/releases/download/v1.8/app-family-debug.apk",
+  "changelog": "보안 강화: 업데이트 서명검증·다운로드 확인"
 }
