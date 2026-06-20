@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 9,
-  "latestVersionName": "1.8",
+  "latestVersionCode": 10,
+  "latestVersionName": "1.9",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/tngusdl3719/dante-split/releases/download/v1.8/app-split-debug.apk",
-  "changelog": "보안 강화: 업데이트 서명검증·다운로드 확인"
+  "apkUrl": "https://github.com/tngusdl3719/dante-split/releases/download/v1.9/app-split-debug.apk",
+  "changelog": "앱 이름 단타스플릿으로 변경"
 }
