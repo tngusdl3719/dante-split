@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 10,
-  "latestVersionName": "1.9",
+  "latestVersionCode": 11,
+  "latestVersionName": "2.0",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/tngusdl3719/dante-split/releases/download/v1.9/app-split-debug.apk",
-  "changelog": "앱 이름 단타스플릿으로 변경"
+  "apkUrl": "https://github.com/tngusdl3719/dante-split/releases/download/v2.0/app-split-debug.apk",
+  "changelog": "halt(자동매매 중단) 시 앱이 닫혀 있어도 푸시 알림(서비스 FCM)"
 }
