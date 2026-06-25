@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 9,
-  "latestVersionName": "1.8",
+  "latestVersionCode": 11,
+  "latestVersionName": "2.0",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/tngusdl3719/dante-split/releases/download/v1.8/app-family-debug.apk",
-  "changelog": "보안 강화: 업데이트 서명검증·다운로드 확인"
+  "apkUrl": "https://github.com/tngusdl3719/dante-split/releases/download/v2.0/app-family-release.apk",
+  "changelog": "정식 서명(release) + 가족 공유 계정 단위 연동(계정의 모든 계좌 표시)"
 }
