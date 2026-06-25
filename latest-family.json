@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 11,
-  "latestVersionName": "2.0",
-  "minVersionCode": 1,
-  "apkUrl": "https://github.com/tngusdl3719/dante-split/releases/download/v2.0/app-family-release.apk",
-  "changelog": "정식 서명(release) + 가족 공유 계정 단위 연동(계정의 모든 계좌 표시)"
+  "latestVersionCode": 12,
+  "latestVersionName": "2.1",
+  "minVersionCode": 12,
+  "apkUrl": "https://github.com/tngusdl3719/dante-split/releases/download/v2.1/app-family-release.apk",
+  "changelog": "로그인 직후 종료되던 문제 수정(FCM 분리). 가족 손익 정상 표시."
 }
