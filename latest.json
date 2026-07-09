@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 13,
-  "latestVersionName": "2.2",
-  "minVersionCode": 13,
-  "apkUrl": "https://github.com/tngusdl3719/dante-split/releases/download/v2.2/app-split-release.apk",
-  "changelog": "보안앱 오탐 회피 — 업데이트를 브라우저 설치로 전환하고 '앱 설치' 권한을 제거했습니다. 이번 한 번만 업데이트하면 이후 은행앱 경고가 사라집니다."
+  "latestVersionCode": 12,
+  "latestVersionName": "2.1",
+  "minVersionCode": 1,
+  "apkUrl": "https://github.com/tngusdl3719/dante-split/releases/download/v2.1/app-split-release.apk",
+  "changelog": "내부 구조 정리(FCM 모듈 분리). 동작은 동일."
 }
