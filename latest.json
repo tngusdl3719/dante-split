@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 12,
-  "latestVersionName": "2.1",
+  "latestVersionCode": 22,
+  "latestVersionName": "2.10",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/tngusdl3719/dante-split/releases/download/v2.1/app-split-release.apk",
-  "changelog": "내부 구조 정리(FCM 모듈 분리). 동작은 동일."
+  "apkUrl": "https://github.com/tngusdl3719/dante-split/releases/download/v2.10/app-split-release.apk",
+  "changelog": "구글 로그인 전환 · 로그아웃/재로그인 개선(네이티브 브리지)"
 }
