@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 12,
-  "latestVersionName": "2.1",
-  "minVersionCode": 12,
-  "apkUrl": "https://github.com/tngusdl3719/dante-split/releases/download/v2.1/app-family-release.apk",
-  "changelog": "로그인 직후 종료되던 문제 수정(FCM 분리). 가족 손익 정상 표시."
+  "latestVersionCode": 23,
+  "latestVersionName": "2.11",
+  "minVersionCode": 23,
+  "apkUrl": "https://github.com/tngusdl3719/dante-split/releases/download/v2.11/app-family-release.apk",
+  "changelog": "네이티브 구글 로그인 추가 — 앱에서 구글 로그인하면 가족 손익이 보입니다. (CF Access 제거 대응)"
 }
